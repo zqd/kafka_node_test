@@ -1,0 +1,8 @@
+{
+  "name": "kafkatest",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "node-rdkafka": "^0.10.2"
+  }
+}
